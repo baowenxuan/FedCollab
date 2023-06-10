@@ -7,9 +7,8 @@ ICML 2023.
 
 ## Introduction
 
-**FedCollab** is a federated learning algorithm which alleviate the negative transfer problem by by clustering clients
-into
-non-overlapping coalitions based on clients' data quantities and their pairwise distribution distances.
+**FedCollab** is an algorithm which alleviates the negative transfer problem in federated learning by clustering clients
+into non-overlapping coalitions based on (1) clients' data quantities and (2) their pairwise distribution distances. 
 
 ## Requirements
 
