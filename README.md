@@ -5,6 +5,8 @@ This is the official implementation of the following paper:
 Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He. _Optimizing the Collaboration Structure in Cross-Silo Federated Learning_.
 ICML 2023.
 
+[[Arxiv](https://arxiv.org/abs/2306.06508)] 
+
 ## Introduction
 
 **FedCollab** is an algorithm which alleviates the negative transfer problem in federated learning by clustering clients
