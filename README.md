@@ -102,8 +102,13 @@ our paper._
 
 ## Citation
 
-If you find this paper or repository helpful in your research, please cite our paper:
+If you find this paper or repository helpful in your research, please consider giving a star ⭐️ and citing our paper:
 
 ```text
-To be released by the conference. 
+@inproceedings{bao2023fedcollab,
+  author  = {Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He},
+  title   = {Federated Learning with Partial Model Personalization},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML'23)},
+  year    = {2023},
+}
 ```
