@@ -107,7 +107,7 @@ If you find this paper or repository helpful in your research, please consider g
 ```text
 @inproceedings{bao2023fedcollab,
   author  = {Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He},
-  title   = {Federated Learning with Partial Model Personalization},
+  title   = {Optimizing the Collaboration Structure in Cross-Silo Federated Learning},
   booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML'23)},
   year    = {2023},
 }
