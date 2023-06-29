@@ -5,7 +5,9 @@ This is the official implementation of the following paper:
 Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He. _Optimizing the Collaboration Structure in Cross-Silo Federated Learning_.
 ICML 2023.
 
-[[Arxiv](https://arxiv.org/abs/2306.06508)] 
+[\[Arxiv\]](https://arxiv.org/abs/2306.06508) 
+[\[Poster\]](https://github.com/baowenxuan/FedCollab/blob/master/material/FedCollab_poster.pdf) 
+[\[Slides\]](https://github.com/baowenxuan/FedCollab/blob/master/material/FedCollab_slides.pdf) 
 
 ## Introduction
 
